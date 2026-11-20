@@ -1,4 +1,4 @@
-This app is mainly focused on collecting student's information regarding school.
+#This app is mainly focused on collecting student's information regarding school.
 
 This system is perfect for teachers and principals that want to keep track of their student's information.
 
